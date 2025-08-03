@@ -1,0 +1,22 @@
+========== MODULES TO BE INSTALLED ==========
+
+
+# For reading Excel/CSV files and handling tabular data
+pandas
+
+# For numerical operations and array handling
+numpy
+
+# For plotting graphs and creating interactive visualizations
+matplotlib
+
+# For interpolation functions
+scipy
+
+# For showing progress bars during loops or long operations
+tqdm
+
+
+# All other modules used come inbuilt with python
+# Just run the command "pip install -r MODULES.txt" in the terminal using the right Python interpreter to install all modules above at once.
+
