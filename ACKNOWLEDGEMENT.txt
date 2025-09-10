@@ -1,0 +1,11 @@
+ACKNOWLEDGEMENT
+
+“Every project is an opportunity to learn, to figure out challenges, to invent and reinvent.”
+
+ It is a genuine pleasure to express our deep sense of gratitude towards our project supervisor, Dr. Priya Rose T, who gave us such a great opportunity to carry out research in the field of optical thin films. Her guidance and moreover, her constant support throughout the project was really helpful. We would like to thank Dr. Saji K J, Associate Professor and Head of Department, for providing us with essential facilities that greatly facilitated the progress of our work. We would also like to express our heartfelt regards to Ms. Karthika Sankar, research scholar and to Ms. Savithri Devi, research scholars, for giving us their valuable advice and support at every stage of the project.
+
+Finally, we acknowledge the Python community, and all other online sources which we have referred for this work. 
+
+Arjun K U
+Aswathi P S
+Milu Mariam K
